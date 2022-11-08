@@ -8,5 +8,7 @@ and open the template in the editor.
     Author     : USUARIO
 */
 body{
-    background-color: whitesmoke; 
+    background-color: whitesmoke;
+    font-weight: bold;
+    color: red;
 }
