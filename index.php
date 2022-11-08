@@ -8,8 +8,10 @@ and open the template in the editor.
     <head>
         <meta charset="UTF-8">
         <title></title>
+        <link href="css/estilos.css" rel="stylesheet" type="text/css">
     </head>
     <body>
+        <h1>git empresarial</h1>
         <?php
         // put your code here
         ?>
