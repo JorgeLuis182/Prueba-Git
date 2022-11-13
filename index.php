@@ -13,7 +13,7 @@ and open the template in the editor.
     <body>
         <h1>git empresarial</h1>
         <?php
-        
+            echo "fañlksdjfñadjsfañlkdsj";
         ?>
     </body>
 </html>
