@@ -16,5 +16,8 @@ and open the template in the editor.
             echo "Parrafo agregado con exito";
         ?>
         <p>Jorge Luis Lopez Ramos</p>
+        <p>CC 1085253456</p>
+        <p>Direccion: Cra 24 22 115 centro</p>
+        <img src="" alt="No hay imagen">
     </body>
 </html>
