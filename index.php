@@ -18,6 +18,6 @@ and open the template in the editor.
         <p>Jorge Luis Lopez Ramos</p>
         <p>CC 1085253456</p>
         <p>Direccion: Cra 24 22 115 centro</p>
-        <img src="" alt="No hay imagen">
+        <img src="https://static.vecteezy.com/system/resources/previews/003/329/743/non_2x/premium-monkey-tail-black-logo-vector.jpg" alt="No hay imagen">
     </body>
 </html>
