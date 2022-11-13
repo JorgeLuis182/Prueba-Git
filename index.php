@@ -16,8 +16,8 @@ and open the template in the editor.
             echo "Parrafo agregado con exito";
         ?>
         <p>Jorge Luis Lopez Ramos</p>
-        <p>CC 1085253456</p>
+        <p>CC 00000000000</p>
         <p>Direccion: Cra 24 22 115 centro</p>
-        <img src="https://static.vecteezy.com/system/resources/previews/003/329/743/non_2x/premium-monkey-tail-black-logo-vector.jpg" alt="No hay imagen">
+        <img style="width: 300px;height: 170px;" src="https://static.vecteezy.com/system/resources/previews/003/329/743/non_2x/premium-monkey-tail-black-logo-vector.jpg" alt="No hay imagen">
     </body>
 </html>
