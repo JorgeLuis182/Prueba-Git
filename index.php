@@ -36,9 +36,6 @@ and open the template in the editor.
             <td>
                 <img style="width: 300px;height: 170px;" src="https://static.vecteezy.com/system/resources/previews/003/329/743/non_2x/premium-monkey-tail-black-logo-vector.jpg" alt="No hay imagen">
             </td>
-            <td>
-                <img style="width: 300px;height: 170px;" src="https://static.vecteezy.com/system/resources/previews/003/329/743/non_2x/premium-monkey-tail-black-logo-vector.jpg" alt="No hay imagen">
-            </td>
         </tr>
         <br><!-- comment -->
         <input type="button" onclick="saludo();" value="On">
