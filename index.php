@@ -15,9 +15,7 @@ and open the template in the editor.
         <script src="sweetalert2.all.min.js"></script>
         <script src="sweetalert2.min.js"></script>
         <script src="js/javascript.js">
-            function saludo() {
-                Swal.fire("Hola", "Mundo", "success");
-            }
+            
         </script>
         <link rel="stylesheet" href="sweetalert2.min.css">
     </head>
