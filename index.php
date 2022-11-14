@@ -9,6 +9,17 @@ and open the template in the editor.
         <meta charset="UTF-8">
         <title></title>
         <link href="css/estilos.css" rel="stylesheet" type="text/css">
+        
+        <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+        <script src="sweetalert2.all.min.js"></script>
+        <script src="sweetalert2.min.js"></script>
+        <link rel="stylesheet" href="sweetalert2.min.css">
+        
+        <script src="js/javascript.js">
+            function saludo(){
+                Swal.fire('Jorge Luis','Lopez','Ramos');
+            }
+        </script>
     </head>
     <body>
         <h1>git empresarial</h1>
@@ -29,5 +40,7 @@ and open the template in the editor.
                 <img style="width: 300px;height: 170px;" src="https://static.vecteezy.com/system/resources/previews/003/329/743/non_2x/premium-monkey-tail-black-logo-vector.jpg" alt="No hay imagen">
             </td>
         </tr>
+        <br><!-- comment -->
+        <input type="button" onclick="saludo();" value="On">
     </body>
 </html>
