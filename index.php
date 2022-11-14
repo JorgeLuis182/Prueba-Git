@@ -15,7 +15,7 @@ and open the template in the editor.
         <script src="sweetalert2.all.min.js"></script>
         <script src="sweetalert2.min.js"></script>
         <script src="js/javascript.js">
-            
+
         </script>
         <link rel="stylesheet" href="sweetalert2.min.css">
     </head>
@@ -24,10 +24,13 @@ and open the template in the editor.
         <?php
         echo "Parrafo agregado con exito";
         ?>
-        <p style="font-size: 30px;">Hoooooooooolaaaaaaaaaaaaaaaaaa Muuuuuuuuunnnnnnddddddoooooooooo!!
-        <p>Jorge Luis Lopez Ramos</p>
-        <p>CC 00000000000</p>
-        <p>Direccion: Cra 24 22 115 centro</p>
+    <legend>
+        <p style="font-size: 30px;">XXXxxxxXXXxXXXXxxxXXXXxxx!!</p>
+    </legend>
+
+    <p>Jorge Luis Lopez Ramos</p>
+    <p>CC 00000000000</p>
+    <p>Direccion: Cra 24 22 115 centro</p>
     <tr>
         <td>
             <img style="width: 200px;height: 120px;" src="https://static.vecteezy.com/system/resources/previews/003/329/743/non_2x/premium-monkey-tail-black-logo-vector.jpg" alt="No hay imagen">
