@@ -24,6 +24,7 @@ and open the template in the editor.
         <?php
         echo "Parrafo agregado con exito";
         ?>
+        <p style="font-size: 30px;">Hoooooooooolaaaaaaaaaaaaaaaaaa Muuuuuuuuunnnnnnddddddoooooooooo!!
         <p>Jorge Luis Lopez Ramos</p>
         <p>CC 00000000000</p>
         <p>Direccion: Cra 24 22 115 centro</p>
@@ -38,6 +39,7 @@ and open the template in the editor.
             <img style="width: 200px;height: 120px;" src="https://static.vecteezy.com/system/resources/previews/003/329/743/non_2x/premium-monkey-tail-black-logo-vector.jpg" alt="No hay imagen">
         </td>
     </tr>
-    <input type="button" onclick="saludo();" value="Entrar">
+    <br>
+    <input type="button" onclick="saludo();" value="Presionar">
 </body>
 </html>
