@@ -4,6 +4,7 @@
  * and open the template in the editor.
  */
 
-function saludo(){
+function saludo() {
     Swal.fire('Vámo a...','Darle!','info');
+   
 }
