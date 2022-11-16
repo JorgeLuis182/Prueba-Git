@@ -12,6 +12,6 @@ function saludo() {
         imageUrl: 'https://cdn.pixabay.com/photo/2016/02/10/21/59/landscape-1192669__340.jpg',
         imageWidth: 400,
         imageHeight: 200,
-        imageAlt: 'Custom image',
+        imageAlt: 'Custom image'
     });
 }
