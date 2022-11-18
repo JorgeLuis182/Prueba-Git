@@ -10,7 +10,6 @@ and open the template in the editor.
         <title></title>
         <link href="css/estilos.css" rel="stylesheet" type="text/css">
         <script src="js/javascript.js"></script>
-
         <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
         <script src="sweetalert2.all.min.js"></script>
         <script src="sweetalert2.min.js"></script>
@@ -18,6 +17,20 @@ and open the template in the editor.
 
         </script>
         <link rel="stylesheet" href="sweetalert2.min.css">
+        <link rel="stylesheet" href="sweetalert2.min.css">
+
+        <script src="js/javascript.js">
+            function saludo() {
+                // Swal.fire('Jorge Luis','Lopez','Ramos');
+                Swal.fire({
+                    position: 'top-end',
+                    icon: 'success',
+                    title: 'Your work has been saved',
+                    showConfirmButton: false,
+                    timer: 1500
+                })
+            }
+        </script>
     </head>
     <body>
         <h1>git empresarial</h1>
@@ -44,5 +57,6 @@ and open the template in the editor.
     </tr>
     <br>
     <input type="button" onclick="saludo();" value="Presionar">
+        
 </body>
 </html>

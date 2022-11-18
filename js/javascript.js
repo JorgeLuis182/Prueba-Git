@@ -14,4 +14,5 @@ function saludo() {
         imageHeight: 200,
         imageAlt: 'Custom image'
     });
+    Swal.fire('Vámo a...','Darle!','info');
 }
