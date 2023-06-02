@@ -34,7 +34,7 @@ and open the template in the editor.
         echo "Parrafo agregado con exito";
         ?>
         <p>Jorge Luis Lopez Ramos</p>
-        <p>CC 00000000000</p>
+        <p>CC 1111111111</p>
         <p>Direccion: Cra 24 22 115 centro</p>
     <tr>
         <td>
